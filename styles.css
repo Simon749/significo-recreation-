@@ -1,0 +1,8 @@
+body[theme="black"] {
+    background-color: black;
+}
+
+body[theme="black"] .section {
+    color: #fff;
+}
+
