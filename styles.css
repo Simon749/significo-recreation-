@@ -1,3 +1,7 @@
+*::selection {
+    background-color: salmon;
+}
+
 body[theme="black"] {
     background-color: black;
 }
@@ -6,3 +10,10 @@ body[theme="black"] .section {
     color: #fff;
 }
 
+body[theme="salmon"] {
+    background-color: salmon;
+}
+
+body[theme="black"] .section {
+    color: #fff;
+}
