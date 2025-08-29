@@ -1,5 +1,5 @@
 *::selection {
-    background-color: salmon;
+    background-color: #ef9d71;
 }
 
 body[theme="black"] {
@@ -16,4 +16,12 @@ body[theme="salmon"] {
 
 body[theme="black"] .section {
     color: #fff;
+}
+
+body[theme="cyan"] {
+    background-color: #80becc;
+}
+
+body[theme="black"] .section {
+    color: #000;
 }
